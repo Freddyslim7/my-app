@@ -1,4 +1,4 @@
-import { products } from "/products";
+import { products } from "./products";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
